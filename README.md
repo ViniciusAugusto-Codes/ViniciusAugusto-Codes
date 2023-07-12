@@ -1,12 +1,9 @@
-<h1 align="center">Hi dear 👋, I'm Vinicius Augusto</h1>
+<h1 align="center">Hello 👋, I'm Vinicius Augusto</h1>
 <h3 align="center">A Student currently learning HTML,CSS and JavaScript </h3>
 
-- 🔭 I’m currently Studying at ETEC Parque da juventude Studying IT for internet
+-  I'm currently graduating in college doing Development and analysis of systems
 
-- 🤔 I’m looking for help with JavaScript
+-  I’m looking for help with JavaScript
 
--❤ I love learning new things,mainly languages (I study English, French and Spanish by myself)
+- I love learning new things,mainly languages (I study English, French and Spanish by myself) and love CyberSecurity
 
-- 😄 Pronouns: He/His  Ele/Dele
-
-- ⚡ Fun fact: I love read mangás and books
