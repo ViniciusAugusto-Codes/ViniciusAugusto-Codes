@@ -1,12 +1,5 @@
 ## Hii my name is Vinicius I'm a front-end developer and CyberSec enthusiast
 
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAugusto-Codes&show_icons=true&theme=midnight-purple&rank_icon=github" </img>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAugusto-Codes&layout=compact&theme=midnight-purple" </img>
-</div>
-  
-
 <div style="display: inline_block"><br>
   <img align="center" alt="JsLogo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TsLogos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
